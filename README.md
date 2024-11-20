@@ -61,7 +61,8 @@ This repository contains a suite of R scripts and a Shiny web application for an
 1. Place `app.R`, `weighted_rf.rds`, and `test_data.xlsx` in the same folder.
 2. In your R console, run: 
    
-   <pre markdown="1"> ```R shiny::runApp("app.R") ``` </pre>
+   <pre markdown="1"> ```R 
+      shiny::runApp("app.R") ``` </pre>
 
 3. Use the web interface to:
 - 📁 **Upload** `.csv` or `.xlsx` data files.
