@@ -66,7 +66,6 @@ This repository contains a suite of R scripts and a Shiny web application for an
 3. Use the web interface to:
 - 📁 **Upload** `.csv` or `.xlsx` data files.
 - 🛠️ **Preprocess** data using advanced filtering techniques.
-- 📊 **Visualize** spectra and PCA results.
 - 🤖 **Predict** hydroprocessing grades with AI.
 
 ---
