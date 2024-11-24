@@ -166,4 +166,3 @@ ggplot(var_imp_df[1:10, ], aes(x = reorder(Variable, Importance), y = Importance
 
 # Stop Parallelization
 stopCluster(cl)
-stopCluster(cl)
